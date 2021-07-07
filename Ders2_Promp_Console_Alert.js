@@ -15,7 +15,11 @@ alert(mesaj)
 
 // Kullanicidan bir icerik girmesini isteyelim
 // prompt("Bir Sayi Giriniz")
-// daha sonra bu sayiyi bir
+// daha sonra bu sayiyi bir degiskene atayalim ve console ile yazidiralim
+
+let kullanicininSayisi = prompt("Bir Sayi giriniz")
+console.log(kullanicininSayisi)
+
 
 
 
