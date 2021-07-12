@@ -5,7 +5,7 @@
 
 // &&  ve    ||  veya    olarak kullanilir.
 
-// ve oldugu iki kosuulunda karsilamasi gerekir ikiside saglarsa true donecektir
+// ve oldugu iki kosulunda karsilamasi gerekir ikiside saglarsa true donecektir
 
 let sayi1 = 10;
 let sayi2 = 20;
