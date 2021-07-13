@@ -19,3 +19,5 @@ console.log(sayi1 < 15 && sayi2 < 19)
 // bu islem true alir cunlu sayi1 < 15 degeri dogru olmasi yeterli
 console.log(sayi1 < 15 || sayi2 < 19)
 
+//replase virgulu nokta yapiyor parseFloat string ifadeyi integar a ceviriyor
+console.log('olcay', parseFloat("0,4".replace(',', '.')));

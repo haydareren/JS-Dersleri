@@ -19,3 +19,4 @@ console.log("simdi artti :::", sayi2)
 console.log("direk sayiyi arttiriyor :::" ,++sayi2)
 // -- azaltma
 console.log("en son 7 olan sayi2 suanda :::", --sayi2)
+
